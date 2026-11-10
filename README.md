@@ -38,10 +38,16 @@ Building scalable web applications, SaaS platforms, and developer tools with the
 
 ## Featured Projects
 
-| Project | Description |
-| --- | --- |
-| **[QRAnalytica](https://example.com/TODO-qranalytica-link)** | Smart QR code generator and analytics platform. |
-| **[AppMize](https://example.com/TODO-appmize-link)** | Web-to-mobile platform with dynamic UI updates and one-click app deployment. |
+| Project | Description | Link |
+| --- | --- | --- |
+| **QRAnalytica** | Dynamic QR code generator and analytics platform. | [v2.qranalytica.com](https://v2.qranalytica.com/) |
+| **nDBForms** | No-code form builder powered by Notion databases. | [ndbforms.com](https://ndbforms.com/) |
+| **QRCard** | Professional digital business card maker. | [qrcard.in](https://qrcard.in/) |
+| **Free Web to APK Converter** | Convert a website to an Android APK or AAB for free, with no login or watermark. | [webtoapkfree.com](https://webtoapkfree.com/) |
+| **Free Dynamic QR Generator** | Unlimited free dynamic QR codes with scan tracking and editable URLs. | [free-dynamic-qr-generator.com](https://free-dynamic-qr-generator.com/) |
+| **ExamBadi** | Competitive exam preparation with bilingual notes, MCQs, and timed mock tests. | [exambadi.in](https://exambadi.in/) |
+| **GymTagOps** | Gym equipment maintenance software with QR issue reporting. | [gymtagops.com](https://gymtagops.com/) |
+| **AppMize** | Web-to-mobile platform with dynamic UI updates and one-click app deployment. | <!-- TODO: add AppMize link --> _Link coming soon_ |
 
 ## GitHub Stats
 
